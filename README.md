@@ -1,2 +1,3 @@
-# html5-skeleton-template
-HTML5 Skeleton: A Basic Template File
+# HTML5 skeleton template
+
+A Basic Template File
